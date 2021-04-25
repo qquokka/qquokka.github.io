@@ -23,7 +23,7 @@ email: yang94lol@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   주니어 백엔드 개발자 쿼카입니다!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://qquokka.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: qquokka
 github_username:  qquokka
 
